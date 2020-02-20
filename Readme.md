@@ -2,9 +2,8 @@
 
 ## Overview
 
-Salt and Pepper algorith for CUDA. For work with images, program uses EasyBMP.
-
-## How use
+Salt and Pepper algorithm for CUDA.
+In project for working with image using EasyBMP.
 
 ## System configuration
 
